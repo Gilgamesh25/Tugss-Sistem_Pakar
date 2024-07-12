@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.main-content {
+    font-size: 1.1rem;
+}
+.jumbotron h1, .jumbotron .lead {
+    font-size: 2rem;
+}
+.jumbotron .btn {
+    font-size: 1.2rem;
+}
+.modal-body {
+    font-size: 1.1rem;
+}
+.main-content p {
+    margin-bottom: 1rem;
+}
